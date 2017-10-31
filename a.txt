@@ -1,0 +1,5 @@
+    naN     ,     0    ,    nan   
+9,nan,
+,8,
+nan,7,6
+  ,  5  ,   nan    
